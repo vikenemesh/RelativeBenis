@@ -3,13 +3,14 @@ by [Chromegear](http://pr0gramm.com/user/Chromegear)
 
 Ersetzt den Score unter einem Pr0gramm-Bild durch den prozentualen Anteil der Upvotes von alles Votes.
 
-Vorher: ![vorher](https://raw.githubusercontent.com/Chromegear/RelativeBenis/master/img/vorher.png)
-Mit RelativeBenis: ![nachher](https://raw.githubusercontent.com/Chromegear/RelativeBenis/master/img/nachher.png)
+Original und mit RelativeBenis
 
-Sehr schön in Verbindung mit [ExtendedBenis](https://github.com/vikenemesh/ExtendedBenis) von [vikenzor](http://pr0gramm.com/user/vikenzor)
+![vorher](https://raw.githubusercontent.com/Chromegear/RelativeBenis/master/img/vorher.png)  ![nachher](https://raw.githubusercontent.com/Chromegear/RelativeBenis/master/img/nachher.png)
 
-Mit ExtendedBenis: ![nachher-extended](https://raw.githubusercontent.com/Chromegear/RelativeBenis/master/img/nachher-extended.png)
+Sehr schÃ¶n in Verbindung mit [ExtendedBenis](https://github.com/vikenemesh/ExtendedBenis) von [vikenzor](http://pr0gramm.com/user/vikenzor)
 
-Zum Installieren einfach hier klicken:     *Tampermonkey oder Greasemonkey werden benötigt*
+![nachher-extended](https://raw.githubusercontent.com/Chromegear/RelativeBenis/master/img/nachher-extended.png)
+
+Zum Installieren einfach hier klicken:     *Tampermonkey oder Greasemonkey werden benÃ¶tigt*
 
 https://github.com/Chromegear/RelativeBenis/raw/master/RelativeBenis.user.js
