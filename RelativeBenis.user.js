@@ -3,7 +3,7 @@
 // @author		Chromegear
 // @namespace	chromegear
 // @include		*pr0gramm.com*
-// @version		0.2
+// @version		1.0
 // @updateURL	https://github.com/Chromegear/RelativeBenis/raw/master/RelativeBenis.user.js
 // @downloadURL	https://github.com/Chromegear/RelativeBenis/raw/master/RelativeBenis.user.js
 // @copyright	2015+, Chromegear
@@ -13,19 +13,18 @@
 // ==/UserScript==
 
 $(function() {
-	// Overwrite the "Class" with an extension of itself
 	p.View.Stream.Item = p.View.Stream.Item.extend({
-		template: tmpl_new,
 		// Extend show()
 		show: function(rowIndex, itemData, defaultHeight, jumpToComment) {
 			this.parent(rowIndex, itemData, defaultHeight, jumpToComment);
 			this._BenisInPercent();
 		},
-		// Extend vote(), update our details and bar
+		// Extend vote()
 		vote: function(ev, vote) {
 			this.parent(ev, vote);
 			this._BenisInPercent();
 		},
+		// Show score as percentage of upvotes of total vote count
 		_BenisInPercent: function() {
 			var total = this.data.item.up + this.data.item.down;
 			var ratio_up = Math.round(this.data.item.up / total * 100);
