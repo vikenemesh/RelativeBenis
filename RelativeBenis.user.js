@@ -3,7 +3,9 @@
 // @author		Chromegear
 // @namespace	chromegear
 // @include		*pr0gramm.com*
-// @version		0.1
+// @version		0.2
+// @updateURL	https://github.com/Chromegear/RelativeBenis/raw/master/RelativeBenis.user.js
+// @downloadURL	https://github.com/Chromegear/RelativeBenis/raw/master/RelativeBenis.user.js
 // @copyright	2015+, Chromegear
 // @description	Zeigt auf pr0gramm.com den prozentualen Anteil an Upvotes unter einem Bild an.
 // @icon		http://pr0gramm.com/media/pr0gramm-favicon.png
